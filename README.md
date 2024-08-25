@@ -5,5 +5,5 @@
 
 ## Trying to Learn Python sooooo
 
-Truth or Dare \
-Rock Paper Scissors
+[Truth or Dare](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/truth-and-dare.py) \
+[Rock Paper Scissors](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/rock-paper-scissors.py) \
