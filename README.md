@@ -5,5 +5,5 @@
 
 ## Trying to Learn Python sooooo
 
-Truth or Dare
+Truth or Dare \
 Rock Paper Scissors
