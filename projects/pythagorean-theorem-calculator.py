@@ -18,8 +18,11 @@ if grah == 'hypotenuse':
 elif grah == 'leg':
     legA = int(input('What is the value of the Leg?'))
     hypotenuse = int(input('What is the value of the Hypotenuse?'))
-    legB = ((hypotenuse ** 2)-(legA ** 2)) ** 0.5
-    print('The value of the missing leg is', legB)
+    if hypotenuse < legA:
+        print('Invalid Triangle')
+    else:
+        legB = ((hypotenuse ** 2)-(legA ** 2)) ** 0.5
+        print('The value of the missing leg is', legB)
 elif grah == '0':
     print('Leg or Hypotenuse')
 
