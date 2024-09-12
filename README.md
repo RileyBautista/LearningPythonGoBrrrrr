@@ -8,7 +8,7 @@
 [Truth or Dare](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/truth-or-dare.py) \
 [Rock Paper Scissors](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/rock-paper-scissors.py) \
 [Pythagorean Theorem Calculator](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/pythagorean-theorem-calculator.py) \
-[RNG Calculator](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/rng.py) 
+[RNG Calculator](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/rng.py) \
 [Caesar Cipher, Encryptor & Decryptor](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/caesar-cipher.py)
 
 
