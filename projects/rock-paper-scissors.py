@@ -1,5 +1,4 @@
 import random
-import time
 print('===================')
 print('Rock Paper Scissors')
 print('===================')
@@ -8,24 +7,23 @@ print('1) ✊')
 print('2) ✋')
 print('3) ✌️')
 
-option = int(input('Choose an answer:'))
-cpuOption = (random.randint(1, 3))
-retry = True
+player = int(input('Pick A Number:'))
+computer = (random.randint(1, 3))
 
-if cpuOption == option:
+if computer == player:
     print('Draw')
-elif cpuOption == 1:
-    if option == 3:
-        print('I chose ✊ it breaks ✌️, I win')
+elif computer == 1:
+    if player == 3:
+        print('You Chose ✌️ \nCPU Chose ✊ \nCPU wins')
     else:
-        print('I chose ✊ it\'s covered by ✋, You win')
-elif cpuOption == 2:
-    if option == 3:
-        print('I chose ✋ it\'s cut by ✌️, You win')
+        print('You Chose ✋ \nCPU Chose ✊ \nYou win') 
+elif computer == 2:
+    if player == 3:
+        print('You Chose ✌️ \nCPU Chose ✋ \nYou win') 
     else:
-        print('I chose ✋ it covers ✊, I win') 
+        print('You Chose ✊ \nCPU Chose ✋ \nCPU wins')  
 else: 
-    if option == 1:
-        print('I chose ✌️ it\'s broken by ✊, You win')
+    if computer == 1:
+        print('You Chose ✊ \nCPU Chose ✌️ \nYou win')  
     else:
-        print('I chose ✌️ it cuts ✋, I win')
+        print('You Chose ✋ \nCPU Chose ✌️ \nCPU wins')
