@@ -10,7 +10,8 @@
 [Pythagorean Theorem Calculator](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/pythagorean-theorem-calculator.py) \
 [RNG Calculator](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/rng.py) \
 [Caesar Cipher, Encryptor & Decryptor](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/caesar-cipher.py) \
-[FizzBuzz](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/fizzbuzz.py)
+[FizzBuzz](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/fizzbuzz.py) \
+[Number Guess](https://github.com/RileyBautista/LearningPythonGoBrrrrr/blob/main/projects/numberguess.py) 
 
 
 Try my code on https://www.online-python.com/
